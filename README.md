@@ -4,7 +4,7 @@
 
 - Start SQL Server server or docker container
 
-- Update database connection string in `Program.cs`
+- Update database connection string in `Program.cs` or `Startup.cs`
 
 - Run application
 
